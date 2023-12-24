@@ -1,5 +1,9 @@
-### Hi there 👋
-YOOOO WHATSUPPP MY N-WORDSS
+### Sup!
+My name's Fazri, i'm a highschool student
+
+## What i do
+I make codes that doesn't do anything to your life,
+Also all of my codes are FOR ENTERTAINMENT PURPOSES only.
 
 <!--
 **FazriWkk/FazrIWkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
