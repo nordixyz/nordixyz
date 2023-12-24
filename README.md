@@ -1,4 +1,4 @@
-### Sup!
+## Sup!
 My name's Fazri, i'm a highschool student
 
 ## What i do
