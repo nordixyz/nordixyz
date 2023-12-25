@@ -1,9 +1,12 @@
 ## Sup! 👋
-My name's Fazri, i'm a highschool student
+Yo! I'm not really a programmer, but i can code in C++
 
 ## What i do
 I make codes that doesn't do anything to your life,
 Also all of my codes are FOR ENTERTAINMENT PURPOSES only.
+
+## My main Programming language
+I'm currently only working in C++, i do understand a bit of python and Html
 
 <!--
 **FazriWkk/FazrIWkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
