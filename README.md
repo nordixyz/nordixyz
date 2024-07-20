@@ -1,12 +1,14 @@
 ## Sup! 👋
-Yo! I'm not really a programmer, but i can code in C++
+I'm never really serious, unless it's F1
 
 ## What i do
-I make codes that doesn't do anything to your life,
-Also all of my codes are FOR ENTERTAINMENT PURPOSES only.
+I program nonsense using cheap tech
 
-## My main Programming language
-I'm currently only working in C++, i do understand a bit of python and Html
+## Main ProgLang
+Only doing c++ atm.
+
+## DISCLAIMER ⚠
+All of my codes are for entertainment purpose only, do NOT take them seriously!
 
 <!--
 **FazriWkk/FazrIWkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
