@@ -1,4 +1,4 @@
-![Hello there!] (https://raw.githubusercontent.com/nordixyz/nordixyz/refs/heads/main/banner.png)
+![Hello there!](https://raw.githubusercontent.com/nordixyz/nordixyz/refs/heads/main/banner.png)
 ## Sup! 👋
 I'm a high performance programmer, programmer sweat, sweat baby, ki ki rrah, sweat sweat
 
