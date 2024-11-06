@@ -1,4 +1,3 @@
-!(https://github.com/nordixyz/nordixyz/blob/e06305fa5deb04b6366226a52a56a383fd6379e9/banner.png)
 ## Sup! 👋
 I'm a high performance programmer, programmer sweat, sweat baby, ki ki rrah, sweat sweat
 
