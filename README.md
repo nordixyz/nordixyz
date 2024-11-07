@@ -3,7 +3,7 @@
 I'm a high performance programmer, programmer sweat, sweat baby, ki ki rrah, sweat sweat.
 
 ## What i do?
-I post my codes, it's either serious or not (mostly the 2nd one).
+I post my codes, it's either serious or not (mostly the 2nd one). And most of my codes are usually for training, exercising and learning only.
 
 ## Devices :
 - **Samsung Galaxy A33 5G**
