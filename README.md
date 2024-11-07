@@ -10,4 +10,4 @@ I post my codes, it's either serious or not (mostly the 2nd one).
 - **ASUS Vivobook E14 E402WA**
 
 ## Working with :
-![lmao](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
+[![lmao](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
