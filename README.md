@@ -1,3 +1,4 @@
+![Hello There!](https://raw.githubusercontent.com/nordixyz/nordixyz/refs/heads/main/Banner1.png)
 
 ## Sup! 👋
 I'm a high performance programmer, programmer sweat, sweat baby, ki ki rrah, sweat sweat.
